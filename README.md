@@ -1,4 +1,5 @@
 # COSE331-CG1
+Computer Graphics
 
 Android studio 이용
 
